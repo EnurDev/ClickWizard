@@ -1,0 +1,10 @@
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\bin\Debug\Click_Wizard.exe.config
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\bin\Debug\Click_Wizard.exe
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\bin\Debug\Click_Wizard.pdb
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\obj\Debug\Click Wizard.csproj.AssemblyReference.cache
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\obj\Debug\Click_Wizard.Properties.Resources.resources
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\obj\Debug\Click Wizard.csproj.GenerateResource.cache
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\obj\Debug\Click Wizard.csproj.CoreCompileInputs.cache
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\obj\Debug\Click_Wizard.exe
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\obj\Debug\Click_Wizard.pdb
+C:\Users\heatx\RiderProjects\Click Wizard\Click Wizard\obj\Debug\Click_Wizard.Application.resources
