@@ -1,0 +1,2 @@
+# ClickWizard
+AutoClicker
